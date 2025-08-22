@@ -1,6 +1,6 @@
 # Diagrama MER
 
-![Diagrama MER](https://github.com/victoorzx/Trabalho_Java_BDA/blob/main/DiagramaMER)
+![Diagrama MER](https://github.com/victoorzx/Trabalho_Java_BDA/blob/main/DiagramaMER.jpg)
 
 
 # 🏢 Banco de Dados - ImobiliariaDB
