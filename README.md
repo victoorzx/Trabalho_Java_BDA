@@ -2,10 +2,6 @@
 
 ![Diagrama MER](https://github.com/victoorzx/Trabalho_Java_BDA/blob/main/DiagramaMER.jpg)
 
-# Diagrama Classe
-
-![Diagrama Classe](https://github.com/victoorzx/Trabalho_Java_BDA/blob/main/Diagrama%20trabalho%20Final.pdf)
-
 # 🏢 Banco de Dados - ImobiliariaDB
 
 ---
