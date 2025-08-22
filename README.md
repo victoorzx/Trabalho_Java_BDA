@@ -1,3 +1,8 @@
+# Diagrama MER
+
+https://github.com/victoorzx/Trabalho_Java_BDA/blob/main/DiagramaMER
+
+
 # 🏢 Banco de Dados - ImobiliariaDB
 
 ---
