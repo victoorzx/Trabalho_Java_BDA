@@ -41,7 +41,7 @@ CREATE TABLE Contrato (
     CONSTRAINT FK_Contrato_Cliente FOREIGN KEY (ClienteId) REFERENCES Cliente(ClienteId),
     CONSTRAINT FK_Contrato_Imovel FOREIGN KEY (ImovelId) REFERENCES Imovel(ImovelId)
 );
-
+```
 # 📥 Inserts - ImobiliariaDB
 
 ---
